@@ -1,0 +1,25 @@
+
+# 嵌套仓库
+LAVIS/
+LLaVA/
+llama/
+minigpt4/
+openflamingo/
+data/
+sentencetransformer/
+bert-base-uncased/
+model/
+microsoft/
+# 数据集、权重、大文件
+*.pth
+*.pt
+*.zip
+*.tar
+*.tar.gz
+*.rar
+# 虚拟环境
+venv/
+env/
+# 缓存
+__pycache__/
+
